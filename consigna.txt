@@ -1,0 +1,12 @@
+Trabajo Práctico JAVA
+
+Ingresar los datos de 8 alumnos, el curso peude ser A o B.
+
+Alumno tiene nombre, nota, edad, curso, sexo
+
+Calcular e imprimir:
+1) Cantidad de alumnos aprobados (se aprueba con 6), por curso.
+2) Cantidad de alumnos aplazados, por curso.
+3) Edad promedio, general y por curso.
+4) Nota promedio de los alumnos varones, por curso.
+
